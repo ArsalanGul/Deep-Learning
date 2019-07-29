@@ -14,5 +14,6 @@ This file is for beginners who are starting in Deep Learning. It explains simple
 
 # 3. LSTM-RNN
 
-THis file is also beginners guide to LSTM-RNN using Keras.
+This file is time series modelling of Electricity Consumption. Data was collected through UCI repository. It is a multivariate Time Series
+Analysis. The model does a pretty good job although it can be improved but it is simple for understanding.
  
